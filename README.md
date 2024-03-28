@@ -10,6 +10,15 @@ User Input: Upon visiting the application, users are presented with a form where
 QR Code Generation: After submitting the form, the backend Flask application processes the input using the pyqrcode library to generate a QR code.
 
 Display and Download: The generated QR code is then displayed on the webpage, and users are given the option to download it as a PNG file for their use.
+
+<p align="center">
+  <a>
+    <img src="https://github.com/cyb3rsl0th/thirdeye/blob/main/images/thirdeye1.png">
+  </a>
+</p>
+
+
+
 ## Acknowledgements
 
  - [Flask](https://pypi.org/project/PyQRCode/)
